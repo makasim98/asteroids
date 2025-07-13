@@ -41,9 +41,16 @@ def main():
             member.draw(display)
 
         for asteroid in asteroids:
+
             if asteroid.colides_with(player):
                 print("Game Over!")
                 return
+
+            for shot in shots:
+                if asteroid.colides_with(shot):
+                    asteroid.kill()
+                    shot.kill()
+
 
         # Show next frame
         pygame.display.flip()
