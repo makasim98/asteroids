@@ -48,7 +48,7 @@ def main():
 
             for shot in shots:
                 if asteroid.colides_with(shot):
-                    asteroid.kill()
+                    asteroid.split()
                     shot.kill()
 
 
