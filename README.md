@@ -11,18 +11,18 @@ A project in the curriculum of [Boot.dev](https://www.boot.dev) to practice Pyth
 ## Posible Additions:
 | Feature | Status |
 | :------ | :----: |
-| Add a scoring system | Planned |
-| Implement multiple lives and respawning | Planned |
-| Add an explosion effect for the asteroids | Planned |
-| Add acceleration to the player movement | Planned |
-| Make the objects wrap around the screen instead of disappearing | Planned |
-| Add a background image | Planned |
-| Create different weapon types | Planned |
-| Make the asteroids lumpy instead of perfectly round | Planned |
-| Make the ship have a triangular hit box instead of a circular one | Planned |
-| Add a shield power-up | Planned |
-| Add a speed power-up | Planned |
-| Add bombs that can be dropped | Planned |
+| Add a scoring system | N/A |
+| Implement multiple lives and respawning | N/A |
+| Add an explosion effect for the asteroids | N/A |
+| Add acceleration to the player movement | N/A |
+| Make the objects wrap around the screen instead of disappearing | N/A |
+| Add a background image | N/A |
+| Create different weapon types | N/A |
+| Make the asteroids lumpy instead of perfectly round | N/A |
+| Make the ship have a triangular hit box instead of a circular one | N/A |
+| Add a shield power-up | N/A |
+| Add a speed power-up | N/A |
+| Add bombs that can be dropped | N/A |
 
 ## How to run the game:
 ### Prerequesites
